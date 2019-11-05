@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+#social-links {
+	width: 48%;
+	height: 50px;
+	background-color: #212121;
+	float: left;
+	padding: 0px 0px 0px 2%;
+}
+#con-num {
+	width: 50%;
+	height: 50px;
+	background-color: #212121;
+	float: right;
+	color: white;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+#con-num div {
+	margin: 10px 5px;
+}
+#con-num div:first-child {
+	margin-right: 40px;
+}
+.fa {
+	padding: 10px;
+	font-size: 15px;
+	width: 15px;
+	text-align: center;
+	text-decoration: none;
+	margin: 7px 2px;
+	background-color: #303030;
+	color: #bcbec0;
+	border-radius: 50%;
+}
+.fa-facebook:hover {
+	background: #3B5998;
+	color: white;
+}
+.fa-twitter:hover {
+	background: #55ACEE;
+	color: white;
+}
+.fa-google:hover {
+	background: #dd4b39;
+	color: white;
+}
+.fa-linkedin:hover {
+	background: #007bb5;
+	color: white;
+}
+.fa-youtube:hover {
+	background: #bb0000;
+	color: white;
+}
+.icon-phone {
+	float: right;
+	float: right;
+	width: auto;
+	height: auto;
+	padding: 4px 0px;
+	border-radius: 4px;
+}
+.con-phone {
+	float: right;
+	float: right;
+	width: auto;
+	height: auto;
+	padding: 4px 0px;
+	border-radius: 4px;
+	font-size: 14px;
+}
+#btn-callme {
+	float: right;
+	width: auto;
+	height: auto;
+	background-color: #a2d84c;
+	padding: 6px 22px;
+	border-radius: 4px;
+	color: black;
+	border-bottom: 2px solid #668e19;
+	font-size: 10px;
+}
