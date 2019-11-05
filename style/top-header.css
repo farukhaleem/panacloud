@@ -1,18 +1,21 @@
 @charset "utf-8";
-
+#top-header{
+	background-color:#212121;
+	height:50px;
+	}
 #social-links {
 	width: 48%;
 	height: 50px;
-	background-color: #212121;
 	float: left;
+	background-color:#212121;
 	padding: 0px 0px 0px 2%;
 }
 #con-num {
 	width: 50%;
 	height: 50px;
-	background-color: #212121;
 	float: right;
 	color: white;
+	background-color:#212121;
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 }
 #con-num div {

@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+.sticky{
+	position:fixed;
+	top:0px;	
+	box-shadow:0px 1px 15px black;
+	z-index:1;
+	}
+
+.nav-bar{
+	height:80px;
+	width:100%;
+	background-color:white;
+	}	
+
+#logo{
+	background-color:;
+	width:19%;
+	margin:5px 0px 0px 1%;
+	float:left;
+	}
+
+.nav{
+	float:right;
+	width:auto;
+	margin:0px 3% 0px 0px;
+	background-color:;
+	}
+
+.nav ul li{
+	float:left;
+	list-style-type:none;
+	}
+
+.nav ul li a{
+	text-decoration:none;
+	display:block;
+	padding:16px 0px;	
+	background-color:;
+	color:black;
+	font-family: Candara;
+	font-size:15px;
+	text-align:center;
+	width:100px;
+	}
+
+.nav ul li a:hover{
+	font-weight:900;
+	border-bottom:10px solid #ffbd1a;
+	width:;
+	}
+
