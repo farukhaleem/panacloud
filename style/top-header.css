@@ -24,7 +24,7 @@
 #con-num div:first-child {
 	margin-right: 40px;
 }
-.fa {
+#top-header .fa,#foot-social-links  .fa{
 	padding: 10px;
 	font-size: 15px;
 	width: 15px;
@@ -35,23 +35,23 @@
 	color: #bcbec0;
 	border-radius: 50%;
 }
-.fa-facebook:hover {
+#top-header .fa-facebook:hover {
 	background: #3B5998;
 	color: white;
 }
-.fa-twitter:hover {
+#top-header .fa-twitter:hover {
 	background: #55ACEE;
 	color: white;
 }
-.fa-google:hover {
+#top-header .fa-google:hover {
 	background: #dd4b39;
 	color: white;
 }
-.fa-linkedin:hover {
+#top-header .fa-linkedin:hover {
 	background: #007bb5;
 	color: white;
 }
-.fa-youtube:hover {
+#top-header .fa-youtube:hover {
 	background: #bb0000;
 	color: white;
 }
