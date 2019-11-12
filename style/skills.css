@@ -1,0 +1,116 @@
+@charset "utf-8";
+
+#skills #heading{
+	padding:0px;
+	width:100%;
+	height:auto;
+	background-color:transparent;
+	text-align:center;
+	font-family:sans-serif;
+	font-size:22px;
+	}
+#skills #heading h1{
+	color:black;
+	display:inline-block;
+	text-transform:uppercase;	
+	}
+#skills #heading span{
+	color:#668e19;
+	display:inline-block;
+	}
+#skills #paragraph{
+	width:60%;
+	height:auto;
+	background-color:white;
+	color:#c8cacc;
+	text-align:center;
+	padding:2px 20%;
+	font-size:16px;
+	font-family:sans-serif;
+	}
+
+
+
+#skills-data{
+	width:80%;
+	height:300px;
+	background-color:;
+	margin:0px 10%;
+	}
+
+.circle{
+	height:200px;
+	width:200px;
+	border-radius:50%;
+	}
+.chart {
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  float: left;
+}
+.inner{
+	width:130px;
+	height:130px;
+	border-radius:50%;
+	padding:0px;
+	margin:0px auto;
+	background-color:white;	
+	text-align:center;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	position:absolute;
+	}
+.inner p{
+	display:inline-block;
+	margin-top:25%;
+	font-size:45px;
+	background-color:;
+	}		
+.mol{
+	width:130px;
+	height:130px;
+	border-radius:100px;
+	background-color:;
+	padding:15px;
+	margin:15px auto;
+	
+	}
+#chart1{background: conic-gradient( white 45% 0, #ffbd1a 0);} 
+#chart2{background: conic-gradient( white 35% 0, #ef4136 0);} 
+#chart3{background: conic-gradient( white 25% 0, #8dc63f 0);} 
+#chart4{background: conic-gradient( white 15% 0, #000000 0);} 
+
+#mol1{border:5px solid #ffbd1a;} #circle1{background-color:white;} #inner1{color:#ffbd1a;}
+#mol2{border:5px solid #ef4136;} #circle2{background-color:white;} #inner2{color:#ef4136;}
+#mol3{border:5px solid #8dc63f;} #circle3{background-color:white;} #inner3{color:#8dc63f;}
+#mol4{border:5px solid #000000;} #circle4{background-color:white;} #inner4{color:#000000;}
+
+
+
+
+
+.imp{
+	width:20%;
+	height:300px;
+	background-color:;
+	float:left;
+	margin:0px 2.5%;
+
+}
+
+
+.box{
+	margin:0px auto;
+	background:;
+	width:200px;
+	height:200px;
+	
+	}
+.para{
+	text-align:center;
+	padding:5px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-transform:uppercase;
+	}
+
+
