@@ -1,0 +1,88 @@
+@charset "utf-8";
+
+#svc{
+	width:100%;
+	height:500px;
+	}
+#svc #heading{
+	padding:0px;
+	width:100%;
+	height:auto;
+	background-color:transparent;
+	text-align:center;
+	font-family:sans-serif;
+	font-size:22px;
+	}
+#svc #heading h1{
+	color:black;
+	display:inline-block;
+	text-transform:uppercase;	
+	}
+#svc #heading span{
+	color:#668e19;
+	display:inline-block;
+	}
+#svc #paragraph{
+	width:60%;
+	height:auto;
+	background-color:white;
+	color:#c8cacc;
+	text-align:center;
+	padding:0px 20%;
+	font-size:16px;
+	font-family:sans-serif;
+	}
+#svc-data{
+	width:90%;
+	margin:0px 5%;
+	height:300px;
+	background-color:;
+	float:left;	
+	}
+.svc-info{ 
+	width:22%;
+	margin:0px 1.5%;
+	height:300px;
+	background-color:;
+	float:left;
+	}
+.bocs{
+    width: 260px;
+    height: 220px;
+    background-color: #F1F2F2;
+    border-radius: 5px;
+    margin: 60px 2.5%;
+    position: relative;
+    padding: 20px;
+    box-sizing: border-box;
+	float:left;
+	}
+.star{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    background-color: #F8BD27;
+    position: absolute;
+    top: -35px;
+    right: 35%;
+	text-align:center;
+	}
+.star img{
+	margin:16px;
+	}	
+.bocs .parag{
+	text-align:center;
+	padding-top:20px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	}
+.parag h3{
+	text-transform:uppercase;
+	}	
+.parag p{
+	color:#BFC1C3;
+	}
+.parag a{
+	text-decoration:underline;
+	color:#668D18;
+	}
+
