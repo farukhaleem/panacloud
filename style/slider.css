@@ -1,6 +1,3 @@
-body{
-	padding: 0px;margin: 0px;
-}
 .slider-container{
 margin: 0px auto; 
 padding: 0px;
@@ -158,3 +155,39 @@ background-position: center;
 .contain .slider .slide .caption h2{margin: 0 0 0px; font-size: 48px;}
 .contain .slider .slide .caption p{font-size: 25px;}
 }
+
+/*slider 2*/
+
+#slide{
+	width:100%;
+	height:500px;
+	background-color:red;	
+	text-align:center;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	background: url(../img/slide/img1.png);
+	}
+#txt h1{
+	text-transform:uppercase;
+	font-size:60px;	
+	}	
+#txt{
+	padding-top:80px;
+	color:white;	
+	}
+#txt p{
+	width:60%;
+	margin:0px auto;
+	}
+#txt a{
+	text-transform:uppercase;
+	padding:7px 30px;
+	background-color:#ffbd1a;
+	border-bottom:2px solid #ff831d;
+	text-decoration:none;
+	border-radius:4px;
+	color:black;
+	font-weight:bold;
+	}	
+#slider-btn{
+	margin-top:50px;
+	}

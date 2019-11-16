@@ -21,8 +21,8 @@
 #contact #paragraph{
 	width:60%;
 	height:auto;
-	background-color:white;
-	color:#c8cacc;
+	background-color:;
+	color:#1CD3CE;
 	text-align:center;
 	padding:2px 20%;
 	font-size:16px;
@@ -33,15 +33,18 @@
 	width:40%;
 	margin:0px auto;
 	}
-#contact #data p{
+#contact #data table{
 	display:inline-block;
 	text-align:center;
 	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	padding: 0px -5px;
 	}
 #contact #data i{
 	margin:0px 10px 0px 20px;	
+	color:green;
 	}
 #map{
+	margin-top:20px;
 	background:; 
 	width:100%;
 	}
